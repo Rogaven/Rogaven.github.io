@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Rogaven.github.io
+title: Alex Nazaroff about Coding
+tagline: Build & Go.
+description: Thoughts about coding, mostly for iOS and OS X.
+paginate: 3
